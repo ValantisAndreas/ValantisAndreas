@@ -34,6 +34,6 @@
 
 ## :rocket: My stats
 
-[![Top Langs](https://github-readme-stats-valantisandreas.vercel.app/api/top-langs/?username=ValantisAndreas&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats-valantisandreas.vercel.app/api/top-langs/?username=ValantisAndreas&layout=compact&theme=vision-friendly-dark&hide=javascript)]
 
 <img src="https://github-readme-stats-valantisandreas.vercel.app//api?username=ValantisAndreas&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=issues,prs"/>
